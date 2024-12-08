@@ -27,9 +27,9 @@ Este repositorio se utiliza para:
 
 1. **Clonar el repositorio**  
    Si deseas explorar los recursos, puedes clonar este repositorio usando:
-   ```bash
+```bash
    git clone https://github.com/rogerdevworld/42-subjects.pdf.git
-   ```
+```
 
 2. **Navegar por los recursos**  
    Explora las carpetas para encontrar los subject(s) y proyectos específicos.
@@ -39,7 +39,7 @@ Este repositorio se utiliza para:
 
 ## 📝 Notas importantes
 
-- Este repositorio no incluye soluciones completas para los proyectos, respetando la filosofía de aprendizaje autodidacta de 42.
+- Este repositorio no incluye soluciones completas para los proyectos, respetando la filosofía de aprendizaje autodidacta de 42. No obstante, dichas soluciones se explican posteriormente en sus repositorios específicos.
 - El contenido de este repositorio está destinado exclusivamente al uso personal y educativo de los estudiantes de 42 Barcelona.
 
 ## 🛡️ Licencia
