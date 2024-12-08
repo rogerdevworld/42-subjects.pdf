@@ -1,6 +1,3 @@
-Aquí tienes un ejemplo de archivo `README.md` para el repositorio:
-
-```markdown
 # 42 Barcelona Projects Repository
 
 ¡Bienvenido/a! Este repositorio está dedicado a **subir y organizar los proyectos y subject(s)** relacionados con **42 Barcelona**. Aquí encontrarás los recursos y trabajos relacionados con los diferentes proyectos que forman parte del plan educativo de 42.
@@ -31,7 +28,7 @@ Este repositorio se utiliza para:
 1. **Clonar el repositorio**  
    Si deseas explorar los recursos, puedes clonar este repositorio usando:
    ```bash
-   git clone <URL_DEL_REPOSITORIO>
+   git clone https://github.com/rogerdevworld/42-subjects.pdf.git
    ```
 
 2. **Navegar por los recursos**  
@@ -53,5 +50,3 @@ El contenido de este repositorio está protegido bajo la [Licencia MIT](LICENSE)
 
 **Creado con ❤️ por estudiantes de 42 Barcelona.**
 ```
-
-Puedes adaptar este contenido según tus necesidades y agregar información adicional si lo consideras necesario. 😊
